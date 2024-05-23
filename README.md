@@ -2,7 +2,7 @@
   
  - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA.
    
- -  - Projeto construído com base em um tutorial do Youtube.
+ - Projeto construído com base em um tutorial do Youtube.
 
  ## Link do video:
 
